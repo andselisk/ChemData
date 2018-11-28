@@ -1,2 +1,2 @@
-# Chemdata
+# ChemData
 Chemistry-related reference data
